@@ -3,7 +3,7 @@
     <div>
       <logo/>
       <h1 class="title">
-        dk-nuxt-app
+        dk-nuxt-app.. changed
       </h1>
       <h2 class="subtitle">
         Portfolio Nuxt app using SSR
