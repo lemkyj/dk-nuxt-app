@@ -6,7 +6,7 @@
         dk-nuxt-app.. changed
       </h1>
       <h2 class="subtitle">
-        Portfolio Nuxt app using SSR
+        Portfolio Nuxt app using SSRikksdfs
       </h2>
       <div class="links">
         <a
