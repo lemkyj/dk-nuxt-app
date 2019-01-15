@@ -1,6 +1,7 @@
 <template>
   <section class="container">
     <div>
+      <h1>Index View</h1>
       <nuxt-link to="/users/">Users</nuxt-link>
     </div>
   </section>
