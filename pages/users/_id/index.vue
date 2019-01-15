@@ -3,6 +3,8 @@
 </template>
 
 <script>
+import Header from '~/components/Header.vue'
+
 export default {
     validate(data) {
         console.log(data.params.id)
